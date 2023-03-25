@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-11T08:51:55 WAT" name="Default suite" finished-at="2023-03-11T08:55:15 WAT" duration-ms="199917">
+    <groups>
+    </groups>
+    <test started-at="2023-03-11T08:51:55 WAT" name="Default test" finished-at="2023-03-11T08:55:15 WAT" duration-ms="199917">
+      <class name="Npack.NewTest2">
+        <test-method signature="Test2()[pri:0, instance:Npack.NewTest2@32ee6fee]" started-at="2023-03-11T08:51:55 WAT" name="Test2" finished-at="2023-03-11T08:53:20 WAT" duration-ms="84355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method signature="Test3()[pri:0, instance:Npack.NewTest2@32ee6fee]" started-at="2023-03-11T08:53:20 WAT" name="Test3" finished-at="2023-03-11T08:54:59 WAT" duration-ms="99608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method signature="Test4()[pri:0, instance:Npack.NewTest2@32ee6fee]" started-at="2023-03-11T08:54:59 WAT" name="Test4" finished-at="2023-03-11T08:55:15 WAT" duration-ms="15809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+      </class> <!-- Npack.NewTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
